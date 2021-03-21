@@ -4,7 +4,7 @@ I am currently learning to play ukulele. In my free time, I like to recite and s
 
 I hope you are having a good day.
 
-*Ofi likes coffee ☕ *
+*Ofi likes coffee* ☕ 
 <!--
 **ofikhan/OfiKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
