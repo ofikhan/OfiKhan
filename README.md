@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am currently learning to play ukulele. In my free time, I like to recite and sing. 
+In my free time, I like to recite and sing. 
 
 I hope you are having a good day.
+
+<a href="https://app.daily.dev/ofi"><img src="https://api.daily.dev/devcards/8325cdf4a3ca40ff9a1c2fd97768db1d.png?r=oob" width="400" alt="Md. Tasdikul Islam Khan's Dev Card"/></a>
 
 *Ofi likes coffee* ☕ 
 <!--
